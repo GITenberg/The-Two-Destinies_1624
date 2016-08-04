@@ -1,0 +1,32 @@
+_repo: The-Two-Destinies_1624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Do you believe in fate? Is true love powerful enough to overcome even
+  the most adverse of circumstances? These thought-provoking questions form the thematic
+  core of the novel The Two Destinies by master storyteller Wilkie Collins. Two star-crossed
+  lovers fall head-over-heels for one another, but soon fall prey to a seemingly insurmountable
+  series of mishaps and misadventures. Will they wind up together eventually?
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Two Destinies
+url: http://www.gutenberg.org/ebooks/1624
